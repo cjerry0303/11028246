@@ -1,6 +1,6 @@
 # 11028246
 
-##標題二
+## 標題二
 ```c
 #include<stdio.h>
 int main{
